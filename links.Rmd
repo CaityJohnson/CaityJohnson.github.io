@@ -1,0 +1,14 @@
+---
+title: "Random Statistical Facts"
+output: html_document
+---
+
+[Statistic Brain Research Institute](https://www.statisticbrain.com/fun-facts/)
+
+[20 Statistics About Probability That Will Blow Your Mind](http://www.cracked.com/pictofacts-438-20-crazy-statistics-that-seem-impossible-at-first-glance/)
+
+[...Random Facts...](https://www.cs.cmu.edu/~bingbin/)
+
+[Random Fact Generator](http://randomfactgenerator.net/)
+
+[42 Incredibly Weird Facts You'll Want To Tell All Your Friends](https://www.buzzfeed.com/tomphillips/42-incredibly-weird-facts-youll-want-to-tell-people-down-the)
