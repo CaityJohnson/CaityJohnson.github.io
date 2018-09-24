@@ -1,5 +1,21 @@
 ---
-title: "About This Website"
+title: "About Me"
+output: html_document
 ---
 
-More about this website.
+
+A little about me...
+
+I grew up in a military family. Both of my parents and my uncle served in the United States Navy. While my father served, I was born in Jacksonville, Florida, moved to San Diego, California, then to Bessemer City, North Carolina in 2001 when he was honorably discharged. My mother joined in 2011, and she was stationed in Jacksonville, Florida. We moved back to Dallas, North Carolina when my mother served four years and realized that it just was not for her. 
+
+I am pursuing a degree as a Mathematics major with a concentration in Statistics and a minor in Sports Analytics from Appalachian State University. I am a transfer student from Gaston College and am now in my junior year.
+
+After graduating from Appalachian, I want to teach for 5 years at the Gaston College, and then move on to Stats Inc. to work with different sports teams all over the world.
+
+Some of my hobbies include: 
+
+* Hiking
+* Walking around downtown Boone
+* Taking day trips home to Charlotte and Gastonia, NC
+* Spending time with friends
+* Taking impromptu road trips with friends

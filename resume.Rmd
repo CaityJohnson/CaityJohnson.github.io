@@ -1,0 +1,13 @@
+---
+title: "Resume"
+output: html_document
+---
+
+**Cailtyn Johnson**
+
+Personal Email
+[ctlnjohnson@gmail.com](https://mail.google.com/mail/u/0/)
+
+School Email
+[johnsonca18@appstate.edu](https://mail.google.com/mail/u/1/)
+
