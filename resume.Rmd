@@ -30,8 +30,8 @@ High School:
 
 College:
 
-* Gaston College, Dallas, NC
-  +  Associates of Science Degree
+Gaston College, Dallas, NC
+  -  Associates of Science Degree
   
 ### Courses Related to Degree
 
@@ -41,3 +41,12 @@ College:
 * Linear Algebra
 * Differential Equations
 * Calculus I-III
+
+#### Professional Job Experience
+
+**Cracker Barrel**
+October 2016 - July 2018
+
+* Worked as a night shift server and a host. 
+* As a host, I was a skill trainer meaning I trained all of the new hosts that we hired on. 
+* I was the lead host on every shift that I worked. For this, I had to make sure that the entire shift ran correctly. Whenever the managers were busy, I had to step in and take on their role in the front of the house, whether that be: helping unhappy guests, helping servers take care of their tables, help clean tables, or weed out any unnecessary drama that came up on the shift as well as continue doing my job as a host.
