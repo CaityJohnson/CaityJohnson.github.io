@@ -19,7 +19,7 @@ School Email
 * Quick learner
 * Great adaptability
 
-## Education
+# Education
 
 High School:
 
@@ -33,7 +33,7 @@ College:
 Gaston College, Dallas, NC
   -  Associates of Science Degree
   
-### Courses Related to Degree
+# Courses Related to Degree
 
 * Data Science
 * Statistical Data Analysis
@@ -42,7 +42,7 @@ Gaston College, Dallas, NC
 * Differential Equations
 * Calculus I-III
 
-#### Professional Job Experience
+# Professional Job Experience
 
 **Cracker Barrel**
 October 2016 - July 2018
