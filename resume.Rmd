@@ -3,11 +3,11 @@ title: "Caitlyn A. Johnson"
 output: html_document
 ---
 
-Personal Email
+### Personal Email
 
 [ctlnjohnson@gmail.com](https://mail.google.com/mail/u/0/)
 
-School Email
+### School Email
 
 [johnsonca18@appstate.edu](https://mail.google.com/mail/u/1/)
 
@@ -21,18 +21,20 @@ School Email
 
 # Education
 
-High School:
+## High School:
 
-* Paxon School for Advanced Studies, Jacksonville, Fl: 08/2012 - 01/2015
-* Bessemer City High School, Bessemer City, NC: 02/2015 - 03/2015, 08/2015 - 01/2016
-* Robert E. Lee High School, Jacksonville, Fl: 03/2015 - 06/2015
-* North Gaston High School, Dallas, NC: 01/2016 - 06/2016
+* **Paxon School for Advanced Studies**, *Jacksonville, Fl*: 08/2012 - 01/2015
+* **Bessemer City High School**, *Bessemer City, NC*: 02/2015 - 03/2015, 08/2015 - 01/2016
+* **Robert E. Lee High School**, *Jacksonville, Fl*: 03/2015 - 06/2015
+* **North Gaston High School**, *Dallas, NC*: 01/2016 - 06/2016
 
-College:
+## College:
 
-Gaston College, Dallas, NC
-  -  Associates of Science Degree
-  
+* **Gaston College**, *Dallas, NC*
+    + Associates of Science Degree
+* **Appalachian State University**, *Boone, NC*
+    + Class of 2020
+    
 # Courses Related to Degree
 
 * Data Science

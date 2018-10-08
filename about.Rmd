@@ -4,7 +4,7 @@ output: html_document
 ---
 
 
-A little about me...
+##### A little about me...
 
 I grew up in a military family. Both of my parents and my uncle served in the United States Navy. I was born in Jacksonville, Florida, moved to San Diego, California, to Bessemer City, North Carolina, and finally settled in Dallas, North Carolina in 2002 while my father served. My mother joined in 2011, and she was stationed in Jacksonville, Florida. We moved back to Dallas, North Carolina when my mother served four years and realized that it just was not for her. 
 
