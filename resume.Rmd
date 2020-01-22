@@ -14,10 +14,12 @@ output: html_document
 
 # Skills
 
-* Excellent communicator
-* Work well with others as well as by myself
-* Quick learner
-* Great adaptability
+* Excellent oral and written communication skills.
+*	Able to develop constructive work relationships.
+*	Quickly develop skills and abilities to perform efficiently.
+*	Capable of successfully adapting to changing situations
+*	Accomplished time management skills balancing school and work.
+
 
 # Education
 
