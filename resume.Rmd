@@ -32,9 +32,14 @@ output: html_document
 
 * **Gaston College**, *Dallas, NC*
     + Associates of Science Degree
+        + President of Gaston College Math Club
+            + Represented Gaston College in numerous inter-collegiate math competitions.
+            
 * **Appalachian State University**, *Boone, NC*
     + Class of 2020
-    
+    +	Mathematics with Concentration in Statistics 
+        + Math Club Member
+        
 # Courses Related to Degree
 
 * Data Science
@@ -43,13 +48,30 @@ output: html_document
 * Linear Algebra
 * Differential Equations
 * Calculus I-III
+* 
 
 # Professional Job Experience
 
 **Cracker Barrel**
 
-October 2016 - July 2018
+October 2016 - July 2019
 
-* Worked as a night shift server and a host. 
-* As a host, I was a skill trainer meaning I trained all of the new hosts that we hired on. 
-* I was the lead host on every shift that I worked. For this, I had to make sure that the entire shift ran correctly. Whenever the managers were busy, I had to step in and take on their role in the front of the house, whether that be: helping unhappy guests, helping servers take care of their tables, help clean tables, or weed out any unnecessary drama that came up on the shift as well as continue doing my job as a host.
+*	Developed customer relation skills as server and host.
+*	Achieved status of Certified Trainer for all newly hired and subordinate host employees.
+*	Served as lead host on duty for all shifts.
+*	Ensured host staff, and other employees worked efficiently together throughout shift.
+*	Acted in management’s absence to resolve customer disputes and ensure customer satisfaction.
+*	Assisted servers in peak customer times, and low staffed shifts.
+
+**Gaston College**
+
+January 2018 - July 2019
+
+*	Tutored college students in various subjects (English, Math, & Physics).
+*	Assisted professors and staff with various tasks during class presentations.  
+
+**Appalachian State**
+
+September 2019 - Present
+
+* Tutor App State students in the General Mathematics and Physics labs.
