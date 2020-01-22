@@ -48,7 +48,10 @@ output: html_document
 * Linear Algebra
 * Differential Equations
 * Calculus I-III
-* 
+* Techniques of Proof
+* Real Analysis
+* Numerical Methods
+* Probability
 
 # Professional Job Experience
 

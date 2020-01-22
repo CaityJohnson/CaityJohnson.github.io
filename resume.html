@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -53,9 +53,7 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -69,7 +67,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -79,6 +76,9 @@ img {
 }
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -94,7 +94,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -114,6 +113,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -135,19 +171,74 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -223,11 +314,21 @@ $(document).ready(function () {
 <ul>
 <li><strong>Gaston College</strong>, <em>Dallas, NC</em>
 <ul>
-<li>Associates of Science Degree</li>
+<li>Associates of Science Degree
+<ul>
+<li>President of Gaston College Math Club
+<ul>
+<li>Represented Gaston College in numerous inter-collegiate math competitions.</li>
+</ul></li>
+</ul></li>
 </ul></li>
 <li><strong>Appalachian State University</strong>, <em>Boone, NC</em>
 <ul>
 <li>Class of 2020</li>
+<li>Mathematics with Concentration in Statistics
+<ul>
+<li>Math Club Member</li>
+</ul></li>
 </ul></li>
 </ul>
 </div>
@@ -241,16 +342,34 @@ $(document).ready(function () {
 <li>Linear Algebra</li>
 <li>Differential Equations</li>
 <li>Calculus I-III</li>
+<li>Techniques of Proof</li>
+<li>Real Analysis</li>
+<li>Numerical Methods</li>
+<li>Probability</li>
 </ul>
 </div>
 <div id="professional-job-experience" class="section level1">
 <h1>Professional Job Experience</h1>
 <p><strong>Cracker Barrel</strong></p>
-<p>October 2016 - July 2018</p>
+<p>October 2016 - July 2019</p>
 <ul>
-<li>Worked as a night shift server and a host.</li>
-<li>As a host, I was a skill trainer meaning I trained all of the new hosts that we hired on.</li>
-<li>I was the lead host on every shift that I worked. For this, I had to make sure that the entire shift ran correctly. Whenever the managers were busy, I had to step in and take on their role in the front of the house, whether that be: helping unhappy guests, helping servers take care of their tables, help clean tables, or weed out any unnecessary drama that came up on the shift as well as continue doing my job as a host.</li>
+<li>Developed customer relation skills as server and host.</li>
+<li>Achieved status of Certified Trainer for all newly hired and subordinate host employees.</li>
+<li>Served as lead host on duty for all shifts.</li>
+<li>Ensured host staff, and other employees worked efficiently together throughout shift.</li>
+<li>Acted in management’s absence to resolve customer disputes and ensure customer satisfaction.</li>
+<li>Assisted servers in peak customer times, and low staffed shifts.</li>
+</ul>
+<p><strong>Gaston College</strong></p>
+<p>January 2018 - July 2019</p>
+<ul>
+<li>Tutored college students in various subjects (English, Math, &amp; Physics).</li>
+<li>Assisted professors and staff with various tasks during class presentations.</li>
+</ul>
+<p><strong>Appalachian State</strong></p>
+<p>September 2019 - Present</p>
+<ul>
+<li>Tutor App State students in the General Mathematics and Physics labs.</li>
 </ul>
 </div>
 
@@ -271,6 +390,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
