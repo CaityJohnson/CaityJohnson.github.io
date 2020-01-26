@@ -5,10 +5,6 @@ date: "1/26/2020"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Two years ago, as I was preparing to graduate from Gaston College with my Associate of Science degree, I was faced with deciding my future college career.The reasons for choosing Appalachian State over all other schools to transfer to in the fall of 2018 were heavily based on the Accelerated Admissions Program (4+1). After lengthy discussions with professors from Gaston College and App St, I chose this university as the place to advance my collegiate career.  The 4+1 program and my tutoring opportunities will allow me to graduate from App St and return to Gaston College to pursue a career as an instructor in mathematics.  
 	
 The 4+1 program allows me to continue my college experience in the community and university system that I feel is a perfect fit to my values, needs, and goals.  After spending my Junior year on the mountain, I now feel like Boone is home, and will always be a major part of my life.  As a child of two Navy parents, I have experienced many moves, and attended numerous high schools.  I appreciate more than most people just how important it is to have the opportunity to dig in, and have a place like Boone and App St to begin my professional career.  
