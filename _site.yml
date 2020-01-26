@@ -9,6 +9,8 @@ navbar:
       href: resume.html
     - text: "Links"
       href: links.html
+    - texr: "Cover Letter"
+      href: cover.html
 output:
   html_document: 
     theme: cerulean

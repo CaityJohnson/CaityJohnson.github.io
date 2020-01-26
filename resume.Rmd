@@ -23,13 +23,6 @@ output: html_document
 
 # Education
 
-#### High School:
-
-* **Paxon School for Advanced Studies**, *Jacksonville, Fl*: 08/2012 - 01/2015
-* **Bessemer City High School**, *Bessemer City, NC*: 02/2015 - 03/2015, 08/2015 - 01/2016
-* **Robert E. Lee High School**, *Jacksonville, Fl*: 03/2015 - 06/2015
-* **North Gaston High School**, *Dallas, NC*: 01/2016 - 06/2016
-
 #### College:
 
 * **Gaston College**, *Dallas, NC*
