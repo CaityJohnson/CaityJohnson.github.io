@@ -1,7 +1,5 @@
 ---
 title: "Cover Letter"
-author: "Caity Johnson"
-date: "1/26/2020"
 output: html_document
 ---
 
