@@ -12,7 +12,7 @@ navbar:
     - text: "Cover Letter"
       href: cover.html
       
-      
+
 output:
   html_document: 
     theme: cerulean
