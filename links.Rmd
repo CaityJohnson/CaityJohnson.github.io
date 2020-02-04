@@ -71,6 +71,9 @@ wordcloud2(demoFreq4, shape = 'oval', backgroundColor = "black", color=rep_len( 
 
 ---
 
+The following data is from the Canadian Rugby team. When competing at Duke in the March of 2019, we were provided this information. We decided to use the information and data provided in an attempt to find which players were the best, and how well the team performed based on the 5 variables provided in the chart below.
+
+
 
 ```{r, echo = FALSE, message = FALSE, results = "hide"}
 #null <- lm(Fatigue ~ 1, data = selwell)
