@@ -71,6 +71,7 @@ slm <- lm(Fatigue ~ ., data = selwell)
 summary(slm)
 ```
 
+class: inverse, middle
 
 ```{r, echo = FALSE, fig.width = 10, fig.height = 9}
 demoFreq4 <- read.csv("demoFreq4.csv")
@@ -79,6 +80,7 @@ wordcloud2(demoFreq4, shape = 'oval', backgroundColor = "black", color=rep_len( 
 
 ---
 
+class: inverse, middle
 
 ```{r, echo = FALSE, message = FALSE, results = "hide"}
 #null <- lm(Fatigue ~ 1, data = selwell)
@@ -109,6 +111,9 @@ knitr::include_graphics("data2.png")
 
 ---
 
+class: inverse, middle
+
+
 
 ```{r, echo = FALSE, message = FALSE, results = "hide", fig.width = 10, fig.height = 9}
 null <- lm(Fatigue ~ 1, data = selwell)
@@ -129,6 +134,7 @@ residualPlots(mod.be, fitted = FALSE)
 
 ---
 
+class: inverse, middle
 
 ```{r, echo = FALSE, results = FALSE}
 #par(mfrow = c(2, 2))
