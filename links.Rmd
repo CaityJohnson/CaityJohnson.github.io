@@ -73,6 +73,7 @@ wordcloud2(demoFreq4, shape = 'oval', backgroundColor = "black", color=rep_len( 
 
 The following data is from the Canadian Rugby team. When competing at Duke in the March of 2019, my team - Tidy Morphin Power Rangers - and I were provided this information. We decided to use the information and data provided in an attempt to find which players were the best, and how well the team performed based on the 5 variables provided in the chart below.
 
+We presented this in front of a panel of judges and ranked in the top ten out of roughly 200 teams. The rules were that we could only have a maximum of three slides not including the introductory slide and we only had 10 minutes to present everything to the judges. 
 
 
 ```{r, echo = FALSE, message = FALSE, results = "hide"}
