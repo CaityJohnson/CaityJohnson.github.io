@@ -1,17 +1,9 @@
 ---
-title: ""
-author: ""
-date: ""
-output:
-  xaringan::moon_reader:
-    css: my-theme.css
-    lib_dir: libs
-    nature:
-      titleSlideClass: ["top", "my-title", "pink"]
-      highlightStyle: github
-      highlightLines: true
-      countIncrementalSlides: false
+title: "DataFest"
+output: html_document
 ---
+
+
 ```{r include = FALSE, label = "setup"}
 library(tidyverse)
 library(dplyr)
