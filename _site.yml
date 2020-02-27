@@ -11,6 +11,8 @@ navbar:
       href: links.html
     - text: "Cover Letter"
       href: cover.html
+    - text: "Skills Explained"
+      href: Skills.html
       
 
 output:

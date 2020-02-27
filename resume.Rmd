@@ -17,7 +17,7 @@ output: html_document
 * Excellent oral and written communication skills.
 *	Able to develop constructive work relationships.
 *	Quickly develop skills and abilities to perform efficiently.
-*	Capable of successfully adapting to changing situations
+*	Capable of successfully adapting to changing situations.
 *	Accomplished time management skills balancing school and work.
 
 
