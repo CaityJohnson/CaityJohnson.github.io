@@ -7,12 +7,12 @@ navbar:
       href: about.html
     - text: "Resume"
       href: resume.html
+    - text: "Skills Explained"
+      href: Skills.html
     - text: "DataFest Work"
       href: links.html
     - text: "Cover Letter"
       href: cover.html
-    - text: "Skills Explained"
-      href: Skills.html
       
 
 output:
