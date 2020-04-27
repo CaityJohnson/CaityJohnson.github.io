@@ -3,3 +3,4 @@ title: "Skills Explained"
 output: html_document
 ---
 
+A skill that I have acquired over the years is being able to adapt to changing situations. 
